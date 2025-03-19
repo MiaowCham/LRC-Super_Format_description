@@ -1,7 +1,7 @@
 
 # LRC - Super 格式规范 v2.0
 
-一种基于LRC的逐字歌词格式（写着玩的）<br>
+一种基于LRC的逐字歌词格式，参考了 ttml 和 Lyricify Syllable（写着玩的）<br>
 LRC - Super 为了解决普通歌词可读性差、兼容性低的问题而诞生<br>
 LRC - Super 歌词文件可以直接使用 `lrc` 后缀，也可以使用单独的 `lrcs`
 
